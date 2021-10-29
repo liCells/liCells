@@ -1,9 +1,8 @@
-- 👋 Hi, I’m LZ.
+- 👋 Hi, I’m LZ. This is my blog. [LZ'blogs](https://blog.cells.ren)
 
 
 ### 代码改变世界!!!
 
-[LZ'blogs](https://blog.cells.ren)
 
 &#x1F332; [一个有意思的树构建工具, 基于注解的形式处理](https://github.com/liCells/treeBuilder)
 

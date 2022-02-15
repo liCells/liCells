@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LZ. This is my blog. [LZ'blogs](https://blog.cells.ren)
+- 👋 Hi, I’m LZ.
 
 
 ### 代码改变世界!!!

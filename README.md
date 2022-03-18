@@ -8,4 +8,4 @@
 
 &#x1F388; [简单的服务注册与发现](https://github.com/liCells/server-client-demo)
 
-&#x1F62F; [学习Sring时实现的简单版注入](https://github.com/liCells/spring-learn)
+&#x1F62F; [学习Spring时实现的简单版注入](https://github.com/liCells/spring-learn)

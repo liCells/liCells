@@ -4,4 +4,4 @@
 
 [![](https://readme-stats-licells.vercel.app/api/top-langs?username=liCells&show_icons=true&layout=compact)](https://github.com/liCells)
 
-[![](https://readme-stats-licells.vercel.app/api?username=liCells)](https://github.com/liCells)
+[![](https://readme-stats-licells.vercel.app/api?username=liCells&count_private=true&show_icons=true)](https://github.com/liCells)

@@ -1,6 +1,6 @@
-👋 Hi, I’m LZ.
+👋 Hi.
 
-- How to reach me lizong1204@gmail.com
+- How to reach me : [Create issues](https://github.com/liCells/liCells.github.io/issues/new)
 
 [![](https://readme-stats-licells.vercel.app/api/top-langs?username=liCells&show_icons=true&layout=compact&langs_count=6&hide=HTML,CSS,VUE)](https://github.com/liCells)
 
